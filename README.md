@@ -1,17 +1,17 @@
-# LIKE OR PASS SCRIPT
-The best script for like or pass, i need your suggest for add, join: https://discord.gg/T57cbGDJZb
+# ANIPHOBIA SCRIPT
+The best script for aniphobia, i need your suggest for add, join: https://discord.gg/T57cbGDJZb
 
 # IMAGES
 
-![image](https://github.com/user-attachments/assets/eeca86f7-8400-4b33-abdc-cb71be63a44d)
+![image](https://github.com/user-attachments/assets/0510d46d-3f03-4550-bd72-6dffbd6bfacf)
 
 # IMPORTANT
 
-This script was tested with jjsploit but should work on other executors.
+This script was tested with swift but should work on other executors.
 
 # EXECUTE SCRIPT
 
-`loadstring(game:HttpGet("https://raw.githubusercontent.com/decentholograms/LikeOrPass-Script/refs/heads/main/LikeOrPass.lua", true))()`
+`loadstring(game:HttpGet("https://raw.githubusercontent.com/decentholograms/Aniphobia/refs/heads/main/Aniphobia.lua", true))()`
 
 
 
