@@ -11,7 +11,7 @@ This script was tested with swift but should work on other executors.
 
 # EXECUTE SCRIPT
 
-`loadstring(game:HttpGet("https://raw.githubusercontent.com/decentholograms/Aniphobia/refs/heads/main/Aniphobia.lua", true))()`
+`loadstring(game:HttpGet("https://raw.githubusercontent.com/decentholograms/Aniphobia-Script/refs/heads/main/Aniphobia.lua", true))()`
 
 
 
